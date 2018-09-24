@@ -1,0 +1,8 @@
+@Metadata.layer: #CORE
+annotate view zddls with
+{
+  //z_test_ddls
+  @UI.lineItem: [{ position: 20 }]
+  sprsl;
+
+}

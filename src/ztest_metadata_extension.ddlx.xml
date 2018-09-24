@@ -9,16 +9,6 @@
      <DESCRIPTION>Test extension</DESCRIPTION>
      <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
     </METADATA>
-    <CONTENT>
-     <SOURCE>@Metadata.layer: #CORE
-annotate view zddls with
-{
-  //z_test_ddls
-  @UI.lineItem: [{ position: 20 }]
-  sprsl;
-
-}</SOURCE>
-    </CONTENT>
    </DDLX>
   </asx:values>
  </asx:abap>
